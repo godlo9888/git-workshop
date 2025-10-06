@@ -2,3 +2,4 @@
 
 ## Opis projektu
 To jest mój pierwszy projekt Git!
+Test
